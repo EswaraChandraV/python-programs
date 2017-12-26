@@ -1,4 +1,4 @@
-s=input()
+s=input().upper()
 d={}
 list1=[]
 list2=[]
